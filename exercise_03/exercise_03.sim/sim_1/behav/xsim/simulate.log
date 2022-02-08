@@ -1,0 +1,5 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Failure: Error in mode 1
+Time: 510 ns  Iteration: 0  Process: /sequence_detector_test/stim_proc  File: F:/Xilinx/Projects/exercise_03/exercise_03.srcs/sim_1/new/sequence_detector_test.vhd
+$finish called at time : 510 ns : File "F:/Xilinx/Projects/exercise_03/exercise_03.srcs/sim_1/new/sequence_detector_test.vhd" Line 103

@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../exercise_12.srcs/sources_1/new/chacha_pkg.vhd" \
+"../../../../exercise_12.srcs/sources_1/new/QuarterRound.vhd" \
+"../../../../exercise_12.srcs/sources_1/new/DoubleRound.vhd" \
+
+# Do not sort compile order
+nosort

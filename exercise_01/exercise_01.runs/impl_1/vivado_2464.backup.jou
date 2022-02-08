@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Jan 13 17:15:42 2022
+# Process ID: 2464
+# Current directory: F:/Xilinx/Projects/exercise_01/exercise_01.runs/impl_1
+# Command line: vivado.exe -log board_deploy.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source board_deploy.tcl -notrace
+# Log file: F:/Xilinx/Projects/exercise_01/exercise_01.runs/impl_1/board_deploy.vdi
+# Journal file: F:/Xilinx/Projects/exercise_01/exercise_01.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source board_deploy.tcl -notrace

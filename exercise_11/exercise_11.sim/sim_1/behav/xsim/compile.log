@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/exercise_11/exercise_11.srcs/sources_1/new/divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/exercise_11/exercise_11.srcs/sim_1/new/divider_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divider_test'

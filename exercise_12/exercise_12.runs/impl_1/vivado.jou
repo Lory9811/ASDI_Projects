@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Feb  1 19:28:03 2022
+# Process ID: 12012
+# Current directory: F:/Xilinx/Projects/exercise_12/exercise_12.runs/impl_1
+# Command line: vivado.exe -log ChaCha.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ChaCha.tcl -notrace
+# Log file: F:/Xilinx/Projects/exercise_12/exercise_12.runs/impl_1/ChaCha.vdi
+# Journal file: F:/Xilinx/Projects/exercise_12/exercise_12.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ChaCha.tcl -notrace

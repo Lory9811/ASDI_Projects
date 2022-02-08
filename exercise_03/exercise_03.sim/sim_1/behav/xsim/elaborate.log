@@ -1,0 +1,15 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: F:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto d0e3c4f76fc249cf9109d1dc966eabe4 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot sequence_detector_test_behav xil_defaultlib.sequence_detector_test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.sequence_detector [sequence_detector_default]
+Compiling architecture behavioral of entity xil_defaultlib.sequence_detector_test
+Built simulation snapshot sequence_detector_test_behav

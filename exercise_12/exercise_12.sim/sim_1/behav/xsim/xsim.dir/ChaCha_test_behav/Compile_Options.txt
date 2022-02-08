@@ -1,0 +1,1 @@
+-wto "745f98c5fa634389bd24aa56982338b5" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "ChaCha_test_behav" "xil_defaultlib.ChaCha_test" -log "elaborate.log" 

@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../exercise_09.srcs/sources_1/imports/Xilinx/RS232RefComp.vhd" \
+"../../../../exercise_09.srcs/sources_1/imports/new/counter.vhd" \
+"../../../../exercise_09.srcs/sources_1/new/node_a.vhd" \
+"../../../../exercise_09.srcs/sources_1/new/node_a_mem.vhd" \
+"../../../../exercise_09.srcs/sources_1/new/node_b.vhd" \
+"../../../../exercise_09.srcs/sources_1/new/node_b_mem.vhd" \
+"../../../../exercise_09.srcs/sim_1/new/system_mem_test.vhd" \
+
+# Do not sort compile order
+nosort

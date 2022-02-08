@@ -1,0 +1,1 @@
+-wto "60d8ba9807f54625ab207cc877675795" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "interconnect_16to4_test_behav" "xil_defaultlib.interconnect_16to4_test" -log "elaborate.log" 

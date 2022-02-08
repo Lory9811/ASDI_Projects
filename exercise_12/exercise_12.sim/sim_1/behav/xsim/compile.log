@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/exercise_12/exercise_12.srcs/sources_1/new/ChaCha.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ChaCha'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/exercise_12/exercise_12.srcs/sources_1/new/DoubleRound.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DoubleRound'
