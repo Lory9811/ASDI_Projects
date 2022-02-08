@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim/system_a_test_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter'
+INFO: [VRFC 10-3107] analyzing entity 'system_a'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Projects/final_exercise/final_exercise.srcs/sim_1/new/system_a_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_a_test'

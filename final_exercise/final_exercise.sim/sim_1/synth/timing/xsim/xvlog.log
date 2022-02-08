@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/timing/xsim/system_a_test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-311] analyzing module system_a
+INFO: [VRFC 10-311] analyzing module glbl

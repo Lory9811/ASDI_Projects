@@ -1,0 +1,12 @@
+
+{ 
+    crc :  5682333829570383494  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 26915ec394b943bdb5b3cf7233411660 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot system_a_test_func_synth xil_defaultlib.system_a_test" , 
+    buildDate : "May 27 2020" , 
+    buildTime : "20:09:33" , 
+    linkCmd : "F:\\Xilinx\\Vivado\\2020.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/system_a_test_func_synth/xsimk.exe\"   \"xsim.dir/system_a_test_func_synth/obj/xsim_0.win64.obj\" \"xsim.dir/system_a_test_func_synth/obj/xsim_1.win64.obj\" -L\"F:\\Xilinx\\Vivado\\2020.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

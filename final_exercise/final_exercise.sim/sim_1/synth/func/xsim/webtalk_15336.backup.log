@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Feb  8 11:41:37 2022
+# Process ID: 15336
+# Current directory: F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim/xsim.dir/system_a_test_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Xilinx/Projects/final_exercise/final_exercise.sim/sim_1/synth/func/xsim/xsim.dir/system_a_test_func_synth/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Tue Feb  8 11:41:37 2022...
